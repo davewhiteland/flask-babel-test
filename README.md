@@ -50,8 +50,7 @@ Pick your language: here `de` for German:
     pybabel init -i messages.pot -d translations -l de
 
 `-d translations` tells pybabel to store the translations in this folder. This
-is where Flask-Babel will look for translations. Put it next to your template
-folder.
+is where Flask-Babel will look for translations. 
 
 ### Translate the words
 
