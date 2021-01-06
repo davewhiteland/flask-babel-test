@@ -134,9 +134,3 @@ If you are using the lazy_gettext() function you should tell pybabel that it
 should also look for such function calls:
 
     pybabel extract -F babel.cfg -k lazy_gettext -o messages.pot .
-
-...then bring up flask:
-
-    flask run
-
-...and hit [localhost:5000](http://localhost:5000)
