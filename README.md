@@ -90,7 +90,8 @@ That creates `messages.mo` in the `translations/de` directory.
 
 Afterwards some strings might be marked as fuzzy (where it tried to figure out
 if a translation matched a changed key). If you have fuzzy entries, make sure to
-check them by hand and remove the fuzzy flag before compiling.
+check them by hand and remove the fuzzy flag before compiling. _There won't be
+any fuzzy strings the first time you run this._
 
 
 ### Run with translation
