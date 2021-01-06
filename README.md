@@ -102,6 +102,10 @@ Edit `mysettings.cfg` to
 
     BABEL_DEFAULT_LOCALE = 'de'
 
+Now start the app up again:
+
+    flask run
+
 then hit [localhost:5000](http://localhost:5000) again: you _should_ see this:
 
 > Eine einfache Zeichenfolge<br>
