@@ -7,7 +7,11 @@ This is using [Flask-Babel](https://flask-babel.tkte.ch).
 
 ## Setup
 
-Make sure you've got `flask` (the web framework) and `flask_babel` (the i18n
+Quick install dependencies like so:
+
+    pip install -r requirements.txt
+
+Otherwise make sure you've got `flask` (the web framework) and `flask_babel` (the i18n
 library that plays nicely with it):
 
     pip install flask
