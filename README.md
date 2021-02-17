@@ -72,8 +72,8 @@ msgstr "Wert: %(value)s"
 #, python-format
 msgid "%(num)s Apple"
 msgid_plural "%(num)s Apples"
-msgstr[0] "%(num) Apfel"
-msgstr[1] "%(num) Äpfel"
+msgstr[0] "%(num)s Apfel"
+msgstr[1] "%(num)s Äpfel"
 ```
 
 ### Compile the translation
